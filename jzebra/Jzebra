@@ -1,0 +1,7 @@
+<%= javascript_include_tag 'jzebra' %>
+
+<applet name="jZebra" code="jzebra.PrintApplet.class" archive="/applet/jzebra.jar" width="10" height="10" style="background-color: #FAFAFA">
+	<param name="printer" value="zebra">
+</applet>	
+
+
